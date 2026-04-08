@@ -5,3 +5,4 @@ __pycache__
 waterb.py
 *.txt
 *.db
+*.sql
