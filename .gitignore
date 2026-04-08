@@ -1,0 +1,7 @@
+.env
+__pycache__
+.claude
+.vscode
+waterb.py
+*.txt
+*.db
